@@ -1,0 +1,6 @@
+.env 
+weather_code
+geckodriver.log
+__pycache__
+*.log
+*.sqlite
