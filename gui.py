@@ -35,6 +35,7 @@ def show_weather():
 
 root = tk.Tk()
 root.title("Weather Forecast")
+root.iconbitmap("WeatherForecast.ico")
 
 frame = ttk.Frame(root, padding=10)
 frame.pack(fill="x")
