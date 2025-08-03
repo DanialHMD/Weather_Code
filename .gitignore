@@ -4,3 +4,6 @@ geckodriver.log
 __pycache__
 *.log
 *.sqlite
+dist
+build
+gui.spec
